@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print hello message
-      - run: echo "Hello World from Testing job"
+        run: echo "Hello World from Testing job"
 #   my_deploy:
