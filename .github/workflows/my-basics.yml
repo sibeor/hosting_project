@@ -2,7 +2,6 @@
 # GitHub Actions
 # ---------------------------------------------------------------------
 name: My-GitHubActions-Basics
-
 env: 
   APPLICATION_NAME: "My Flask"
   PACKAGE_NAME: "flask_deploy_ver_${{github.sha}}"
